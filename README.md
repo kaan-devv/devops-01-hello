@@ -1,2 +1,8 @@
-# devops-01-hello
-My Docker
+# DevOps
+
+### Docker Documentation
+
+
+For further reference, please consider the following sections:
+
+* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
